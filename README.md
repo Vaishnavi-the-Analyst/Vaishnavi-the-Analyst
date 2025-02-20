@@ -24,5 +24,5 @@ Hi, I'm Vaishnavi Vanam! 👋 Welcome to my GitHub profile! I'm a passionate Dat
 Get in Touch I'm always excited to collaborate on data-driven projects, explore innovative solutions, and contribute to meaningful work in data analytics and engineering. Feel free to connect with me!
 
 📫 Email: vanamvaishnavi45@gmail.com            
-🌐 LinkedIn: Vaishnavi Vanam             
-💻 GitHub: VaishnaviVanam          
+🌐 LinkedIn: <a href="https://www.linkedin.com/in/vaishnavi-vanam/">Vaishnavi Vanam</a>     
+💻 GitHub: <a href="">VaishnaviVanam</a>      
