@@ -25,4 +25,4 @@ Get in Touch I'm always excited to collaborate on data-driven projects, explore 
 
 📫 Email: vanamvaishnavi45@gmail.com            
 🌐 LinkedIn: <a href="https://www.linkedin.com/in/vaishnavi-vanam/">Vaishnavi Vanam</a>     
-💻 GitHub: <a href="">VaishnaviVanam</a>      
+💻 GitHub: <a href="https://github.com/Vaishnavi-the-Analyst">Vaishnavi-the-Analyst</a>      
